@@ -1,0 +1,22 @@
+---
+name: "Bibelfussball"
+creator:
+  - givenName: "Jörg"
+    familyName: "Lohrer"
+  - givenName: "Joerg"
+    familyName: "Lohrer"
+publisher:
+  givenName: "Jörg"
+  familyName: "Lohrer"
+keywords:
+  - "Bibel"
+  - "interaktiv"
+  - "Altes Testament"
+  - "Neues Testament"
+description: "Nachschlage-Quiz zur Bibel"
+inLanguage: "de"
+version: 1.0
+license: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+thumbnailUrl: http://placehold.it/100x100
+learningResourceType: "Exercise"
+creativeWorkStatus: "Published" # Incomplete, Draft, Published
