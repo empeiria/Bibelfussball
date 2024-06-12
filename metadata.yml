@@ -19,4 +19,4 @@ version: 1.0
 license: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 thumbnailUrl: http://placehold.it/100x100
 learningResourceType: "Exercise"
-creativeWorkStatus: "Published" # Incomplete, Draft, Published
+creativeWorkStatus: "Published"
