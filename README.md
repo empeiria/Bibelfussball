@@ -14,7 +14,9 @@ toc_label: "Inhaltsverzeichnis"
 toc_icon: "futbol"
 toc_sticky: "true"
 ---
-
+- hier als [Google-Doc](https://docs.google.com/document/d/1MWuPSJP6YJrka6-hZKQgGIMBCDkKwxMY2I2ffaa1_0w/edit?usp=sharing)
+- hier als [Word-docx](https://github.com/joerglohrer/Bibelfussball/raw/master/Bibelfussball%20-%20rpi-virtuell.docx)
+- hier als Canva (kommt noch)
 
 # Bibelfußball: Nachschlage-Quiz zur Bibel
 Bibelfußball ist ein einfaches und begeisterndes Quizduell, bei dem die Lehrperson die Klasse in zwei Hälften teilt, die wie beim Fußball gegeneinander spielen. Das Fußballfeld mit seinen entsprechenden Linien wird dabei an die Wandtafel gezeichnet und der Ball wird durch einen Magnetknopf symbolisiert. Gepunktet wird, indem der Lehrer eine Frage stellt und eine Bibelstelle nennt, die es nachzuschlagen gilt. Wer die Stelle zuerst findet und die Antwort ruft, dessen Mannschaft darf den Ball eine Linie weiterrücken in Richtung des gegnerischen Tores. Wurde ein Tor geschossen, beginnt das Spiel von neuem an der Mittellinie.
