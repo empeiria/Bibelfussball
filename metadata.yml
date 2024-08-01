@@ -17,6 +17,6 @@ description: "Nachschlage-Quiz zur Bibel"
 inLanguage: "de"
 version: 1.0
 license: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-thumbnailUrl: http://placehold.it/100x100
+thumbnailUrl: https://raw.githubusercontent.com/joerglohrer/Bibelfussball/master/bibelfussball.jpg
 learningResourceType: "Exercise"
 creativeWorkStatus: "Published"
