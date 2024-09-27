@@ -1,22 +1,39 @@
----
-name: "Bibelfussball"
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Bibelfussball
+description: Nachschlage-Quiz zur Bibel
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+id: https://github.com/joerglohrer/Bibelfussball
 creator:
-  - givenName: "Jörg"
-    familyName: "Lohrer"
-  - givenName: "Joerg"
-    familyName: "Lohrer"
-publisher:
-  givenName: "Jörg"
-  familyName: "Lohrer"
+  - givenName: Jörg
+    familyName: Lohrer
+    id: https://orcid.org/0000-0002-9282-0406
+    type: Person
+    affiliation:
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
+      type: Organization
 keywords:
-  - "Bibel"
-  - "interaktiv"
-  - "Altes Testament"
-  - "Neues Testament"
-description: "Nachschlage-Quiz zur Bibel"
-inLanguage: "de"
-version: 1.0
-license: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-thumbnailUrl: https://raw.githubusercontent.com/joerglohrer/Bibelfussball/master/bibelfussball.jpg
-learningResourceType: "Exercise"
-creativeWorkStatus: "Published"
+  - Bibel
+  - interaktiv
+  - Altes Testament
+  - Neues Testament
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n02
+  - https://w3id.org/kim/hochschulfaechersystematik/n03
+  - https://w3id.org/kim/hochschulfaechersystematik/n053
+  - https://w3id.org/kim/hochschulfaechersystematik/n086
+  - https://w3id.org/kim/hochschulfaechersystematik/n136
+  - https://w3id.org/kim/hochschulfaechersystematik/n544
+  - https://w3id.org/kim/hochschulfaechersystematik/n545
+image: >-
+  https://raw.githubusercontent.com/joerglohrer/Bibelfussball/master/bibelfussball.jpg
+learningResourceType:
+  - https://w3id.org/kim/hcrt/educational_game
+  - https://w3id.org/kim/hcrt/worksheet
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2021-12-31'
