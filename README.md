@@ -19,7 +19,7 @@ toc_sticky: "true"
 - hier als [Canva](https://www.canva.com/design/DAGJ9V57V2s/AAKL_CLsaBCCssvsEWb3Ww/edit?utm_content=DAGJ9V57V2s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - hier als [CSV AT](https://github.com/joerglohrer/Bibelfussball/blob/master/Bibelquiz%20-%20Altes%20Testament.csv) und [CSV NT](https://github.com/joerglohrer/Bibelfussball/blob/master/Bibelquiz%20-%20Neues%20Testament.csv)
 - hier als [JSON](https://github.com/joerglohrer/Bibelfussball/blob/master/Bibelquiz.json)
-- hier als [Web-App](https://joerglohrer.github.io/Bibelfussball/)
+- hier als [Web-App](https://joerglohrer.github.io/bibelfussball-app/)
 
 # Bibelfußball: Nachschlage-Quiz zur Bibel
 Bibelfußball ist ein einfaches und begeisterndes Quizduell, bei dem die Lehrperson die Klasse in zwei Hälften teilt, die wie beim Fußball gegeneinander spielen. Das Fußballfeld mit seinen entsprechenden Linien wird dabei an die Wandtafel gezeichnet und der Ball wird durch einen Magnetknopf symbolisiert. Gepunktet wird, indem der Lehrer eine Frage stellt und eine Bibelstelle nennt, die es nachzuschlagen gilt. Wer die Stelle zuerst findet und die Antwort ruft, dessen Mannschaft darf den Ball eine Linie weiterrücken in Richtung des gegnerischen Tores. Wurde ein Tor geschossen, beginnt das Spiel von neuem an der Mittellinie.
